@@ -13,8 +13,8 @@ const ClickToView = () => {
     {
       id: 2,
       image:
-        "https://v0.funnelslayer.com/wp-content/uploads/2025/01/home-page-1-1.webp",
-      link: "https://v0.funnelslayer.com/wp-content/uploads/2025/01/home-page-1-1.webp",
+        "https://v0.funnelslayer.com/wp-content/uploads/2025/01/home-page-1-2.webp",
+      link: "https://go.duocircle.net/krista",
     },
     {
       id: 3,

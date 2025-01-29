@@ -5,7 +5,7 @@ import { H1 } from "@/components/global/headers";
 export function Header() {
   return (
     <header className="w-full min-h-screen flex items-center flex-col z-[31] relative overflow-hidden pt-8 ">
-      <div className="container mx-auto px-3 md:px-8 flex flex-col items-center relative max-sm:min-h-screen max-sm:justify-center">
+      <div className="container mx-auto px-3 md:px-12 flex flex-col items-center relative max-sm:min-h-screen max-sm:justify-center">
         <div className="w-full flex justify-start max-sm:absolute max-sm:top-6 max-sm:left-6">
           <p className="text-white text-left">
             Portfolio—
@@ -17,7 +17,7 @@ export function Header() {
             <H1 className="font-extrabold text-left font-helveticaMedium">
               I Don’t Just Design— I Create Brands That People Remember
             </H1>
-            <p className="text-[#858585] md:text-lg md:max-w-lg mr-auto">
+            <p className="text-[#858585] md:text-lg md:max-w-lg mr-auto ">
               These convey confidence, personality, and flair. Want me to punch
               it up more?
             </p>
@@ -28,7 +28,7 @@ export function Header() {
               width={1000}
               height={1000}
               alt="social media desings"
-              className="w-[300px] sm:w-[500px] floating-pic"
+              className="w-[300px] sm:w-[440px] floating-pic"
             />
           </div>
         </div>

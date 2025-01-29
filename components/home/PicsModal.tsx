@@ -1,11 +1,12 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import React, { Dispatch, SetStateAction } from "react";
+import React, { Dispatch, SetStateAction, useState } from "react";
 // import { useEffect, useState } from "react";
 import Image from "next/image";
 import { IoClose } from "react-icons/io5";
 import { CiFaceSmile } from "react-icons/ci";
+import SinglePicModal from "./SinglePicModal";
 
 interface PicsModalProps {
   projectName: string;
@@ -41,21 +42,14 @@ const PicsModal = ({ projectName, Pics, open, setOpen }: PicsModalProps) => {
                 <IoClose />
               </div>
               <h4 className="text-2xl font-extrabold leading-none tracking-tight uppercase md:text-3xl lg:text-4xl fill-stroke-a text-center">
-                <span className="text-primary font-helveticaMedium">{projectName}</span>
+                <span className="text-primary font-helveticaMedium">
+                  {projectName}
+                </span>
               </h4>
 
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-1 sm:gap-3 mt-6">
                 {Pics?.map((Pic) => {
-                  return (
-                    <Image
-                      key={Pic}
-                      src={Pic}
-                      width={400}
-                      height={400}
-                      alt={projectName}
-                      className="w-full rounded-sm sm:rounded-xl sm:border-2 border-[1px] border-white cursor-pointer"
-                    />
-                  );
+                  return <SinglePicture key={Pic} Pic={Pic} />;
                 })}
               </div>
             </div>
@@ -67,3 +61,21 @@ const PicsModal = ({ projectName, Pics, open, setOpen }: PicsModalProps) => {
 };
 
 export default PicsModal;
+
+const SinglePicture = ({ Pic }: { Pic: string }) => {
+  const [singleOpen, setSingleOpen] = useState(false);
+  return (
+    <>
+      <Image
+        key={Pic}
+        src={Pic}
+        width={400}
+        height={400}
+        alt={Pic}
+        className="w-full rounded-sm sm:rounded-xl sm:border-2 border-[1px] border-white cursor-pointer"
+        onClick={() => setSingleOpen(true)}
+      />
+      <SinglePicModal open={singleOpen} setOpen={setSingleOpen} Pic={Pic} />
+    </>
+  );
+};
