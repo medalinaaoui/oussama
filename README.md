@@ -1,40 +1,67 @@
-Here's a **detailed provisional quote** based on everything the client requested:  
+### **Proposal for Laura Alina Dragu**  
+**Objective**: Increase ticket sales for the Athens Bootcamp, strengthen brand presence, and optimize marketing systems for better conversions.  
 
 ---
 
-### **Provisional Quote**  
+### **1. Branding Identity Overhaul**  
+**Goal**: Establish a cohesive visual identity across MetatronFX, MadMaxDoll, and Life Mastery events.  
 
-| **Description** | **Qty** | **Price (USD)** |
-|----------------|--------|----------------|
-| **Phase 1: Public Website & Lead Magnet** | | |
-| - Design & development of a **5-page** website based on provided PDF design | 1 | $400 |
-| - Integration of **10-question quiz** with predefined answers | 1 | $150 |
-| - Automated **report generation** with personalized user name & seasonal certificates | 1 | $200 |
-| - **Mailchimp integration** for lead capture & email automation | 1 | $100 |
-| - **Social media sharing** feature for quiz results | 1 | $100 |
-| **Subtotal for Phase 1** | | **$950** |
-| **Phase 2: Learning Management System (LMS)** | | |
-| - Setup & customization of **existing LMS platform** (LearnDash, Teachable, etc.) | 1 | $300 |
-| - **Course structure setup** (modules, video lessons, quizzes, reflection questions, downloads) | 1 | $250 |
-| - **Badges & certificates** for module completion | 1 | $150 |
-| - **Corporate dashboard** for companies to track user progress | 1 | $200 |
-| - **Payment system setup** (manual activation for now) | 1 | $100 |
-| **Subtotal for Phase 2** | | **$1,000** |
-| **Total Estimate** | | **$1,950** |
+**Deliverables:**  
+- Logo design and branding assets  
+- Color palette and typography selection  
+- Branded templates for social media, presentations, and email signatures  
 
 ---
 
-### **Notes:**  
-- **Timeline:** Phase 1 will be completed **by the end of the month** as requested.  
-- **LMS Platform:** Since you’re open to using an existing solution, we’ll choose one based on your budget.  
-- **Payment Options:** If needed, we can discuss a phased approach to fit your budget.  
+### **2. High-Converting Sales Page**  
+**Goal**: Drive targeted traffic to the affiliate link and increase conversions.  
 
-Let me know your thoughts, and I’d be happy to adjust based on your priorities!  
-
-Looking forward to working together.  
-
-**Best,**  
-Mohamed Ali Naaoui
-funnelslayer.com
+**Work Included:**  
+- Full-page design and integration  
+- Mobile responsiveness and optimization  
+- CTA optimization for higher conversions  
 
 ---
+
+### **3. Email Marketing Setup**  
+**Goal**: Nurture leads and recover lost sales through automated sequences.  
+
+**Work Included:**  
+- Migration from GoDaddy to a more advanced email platform  
+- Automation setup for lead nurturing and abandoned cart recovery  
+- Segmentation and tagging for targeted messaging  
+
+---
+
+### **4. Website Redesigns**  
+#### **A. MetatronFX.com**  
+**Goal**: Optimize the website for credibility and lead generation.  
+
+**Work Included:**  
+- Website redesign with a focus on branding and conversion optimization  
+- SEO structure improvement  
+- Integration of lead capture forms and CTAs  
+
+#### **B. MadMaxDoll.com**  
+**Goal**: Enhance Laura’s personal brand authority.  
+
+**Work Included:**  
+- Website redesign for better engagement and positioning  
+- Blog/resource setup for content marketing  
+- CTA integrations for lead generation and bookings  
+
+---
+
+### **5. Interactive Media Kit & Presentation Page**  
+**Goal**: Create a dynamic page to replace the static PDF media kit and increase brand credibility.  
+
+**Work Included:**  
+- Interactive media kit design and development  
+- Integration with lead capture and booking tools  
+
+---
+
+### **Pricing **  
+- **Branding + Sales Page + Email Setup**: €1,500  or €700 upfront + 10% commission on ticket sales  
+- **Website Redesigns (Both)**: €1,500  
+- **Media Kit/Presentation Page**: €800   
